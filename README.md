@@ -1,2 +1,2 @@
 # LeetCode-Problems
-Solutions of 15 assignment problems
+Solutions of LeetCode problems
